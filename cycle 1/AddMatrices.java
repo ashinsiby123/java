@@ -1,8 +1,8 @@
 public class AddMatrices {
 
     public static void main(String[] args) {
-    System.out.println("Name : APARNA MOHAN");
- System.out.println("Reg no : SJC 22MCA-2013");
+    System.out.println("Name : Ashin Siby");
+ System.out.println("Reg no : SJC 22MCA-2014");
  System.out.println("Course code : 20MCA132");
  System.out.println("Date : 24/3/2023");
         int rows = 2, columns = 3;
