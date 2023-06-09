@@ -9,7 +9,7 @@ public class area{
 	s=sc.nextInt();
 	sa=Square(s);
 		
-	System.out.println("Enter length of reactangle : ");
+	System.out.println("Enter length, breadth of reactangle : ");
 	l=sc.nextInt();
 	b=sc.nextInt();
 	ra=Square(l,b);
@@ -21,6 +21,11 @@ public class area{
 	ch=sc.nextInt();
 	ca=Square(cl,cb,ch);
 	
+	System.out.println("Ashin Siby");
+        System.out.println("SJC22MCA-2014");
+        System.out.println("07-06-2023");
+        System.out.println("");
+        
 	System.out.println("Area of square-> "+sa);
 	System.out.println("Area of rectangle-> "+ra);
 	System.out.println("Area of cuboid-> "+ca);
