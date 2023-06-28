@@ -3,8 +3,13 @@ import java.util.Scanner;
 
 public class ArithmeticMain {
     public static void main(String[] args) {
-    System.out.println("\nName:Ashin Siby\nReg No:22MCA014\nCourse Code and Name: 20MCA132  OBJECT ORIENTED PROGRAMMING LAB\nDate:21/06/2023\n\n");
-        ArithmeticOperations operations = new ArithmeticOperations();
+    
+    System.out.println("Name : Ashin Siby");
+      System.out.println("Reg No: 22MCA014");
+      System.out.println("Course Code and Name: 20MCA132, Object Oriented Programming Lab");
+      System.out.println("Date:23/06/2023");
+      System.out.println("---------------------------");
+       ArithmeticOperations operations = new ArithmeticOperations();
 
        Scanner scanner = new Scanner(System.in);
 

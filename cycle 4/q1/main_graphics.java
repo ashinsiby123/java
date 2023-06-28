@@ -4,7 +4,11 @@ public class main_graphics
 {
 public static void main(String []args)
 {
-System.out.println("\nName:Ashin Siby\nReg No:22MCA014\nCourse Code and Name: 20MCA132, Object Oriented Programming Lab\nDate:23/06/2023\n\n");
+System.out.println("Name : Ashin Siby");
+      System.out.println("Reg No: 22MCA014");
+      System.out.println("Course Code and Name: 20MCA132, Object Oriented Programming Lab");
+      System.out.println("Date:23/06/2023");
+      System.out.println("---------------------------");
 package_graphics testObj = new package_graphics();
 int l,h,r,a,c,d;
 Scanner s=new Scanner(System.in);
