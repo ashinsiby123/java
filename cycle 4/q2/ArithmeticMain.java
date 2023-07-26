@@ -1,14 +1,8 @@
 import arithmetic.ArithmeticOperations;
 import java.util.Scanner;
-
 public class ArithmeticMain {
     public static void main(String[] args) {
     
-    System.out.println("Name : Ashin Siby");
-      System.out.println("Reg No: 22MCA014");
-      System.out.println("Course Code and Name: 20MCA132, Object Oriented Programming Lab");
-      System.out.println("Date:23/06/2023");
-      System.out.println("---------------------------");
        ArithmeticOperations operations = new ArithmeticOperations();
 
        Scanner scanner = new Scanner(System.in);
@@ -23,7 +17,7 @@ public class ArithmeticMain {
         System.out.println("Subtraction: " + operations.subtract(num1, num2));
         System.out.println("Multiplication: " + operations.multiply(num1, num2));
         System.out.println("Division: " + operations.divide(num1, num2));
-        
+
     }
 }
 
